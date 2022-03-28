@@ -1,24 +1,11 @@
-# README
+# Marked
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Marked is an open-source bookmark manager for finding your workflow. Our mission is to provide be a bookmark provider that allows you to find various resources for free. We help users find resources and look at what they use build the impressive portfolio of projects.
 
-Things you may want to cover:
+Some of the topics we cover include:
 
-* Ruby version
+- Producitivity 
+- Development
+- Design
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repo contains the Marked app which pulls in lesson content as well as front-end and back-end code.
